@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Z-score above 2.99: 'Safe' according to the financial data
 Z-score between 1.81 and 2.99: 'Grey' area
+=======
+Z-score above 2.99: 'Safe' according to the financial data
+Z-score between 1.81 and 2.99: 'Grey' area
+>>>>>>> 84bf0d4324d6448d3b46f82f3c1e806e30f05588
 Z-score below 1.81: Likely to be 'Distressed'
